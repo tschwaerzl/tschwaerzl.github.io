@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Thomas Schwärzl
+description: Blogging about cloud technology
+meta_description: "Thomas Schwärzl, Blogging about technology"
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'https://tschwaerzl.github.io'
+google_analytics: 'UA-598818-8'
+disqus: true
+disqus_shortname: 'tschwaerzl'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://tschwaerzl.github.io'
+author:         'Thomas Schwärzl'
+authorTwitter:  'tschwaerzl'
 
 permalink:       /:year/:title/
 
