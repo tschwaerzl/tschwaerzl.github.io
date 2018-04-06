@@ -10,7 +10,6 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'https://tschwaerzl.github.io'
-google_analytics: 'UA-598818-8'
 disqus: false
 disqus_shortname: 'tschwaerzl'
 
