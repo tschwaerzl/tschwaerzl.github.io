@@ -11,7 +11,7 @@ plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'https://tschwaerzl.github.io'
 google_analytics: 'UA-598818-8'
-disqus: true
+disqus: false
 disqus_shortname: 'tschwaerzl'
 
 # Details for the RSS feed generator
