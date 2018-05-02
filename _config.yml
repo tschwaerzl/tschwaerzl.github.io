@@ -1,5 +1,5 @@
 name: Thomas Schwärzl
-description: Blogging about cloud technology
+description: Blogging. Mostly about technology :)
 meta_description: "Thomas Schwärzl, Blogging about technology"
 
 aboutPage: true
@@ -9,12 +9,12 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'https://tschwaerzl.github.io'
-disqus: false
+domain_name: 'https://schwaerzl.net'
+disqus: true
 disqus_shortname: 'tschwaerzl'
 
 # Details for the RSS feed generator
-url:            'https://tschwaerzl.github.io'
+url:            'https://schwaerzl.net'
 author:         'Thomas Schwärzl'
 authorTwitter:  'tschwaerzl'
 
