@@ -4,7 +4,7 @@ description: Work in progress
 ## date: add a date when publishing
 ---
 
-Drafts are posts without a date. They’re posts you’re still working on and don’t want to publish yet. To get up and running with drafts, check the _drafts folder in the site’s root.
+Drafts are posts without a date. They’re posts you’re still working on and don’t want to publish yet. To get up and running with drafts, check the _drafts_ folder in the site’s root.
 
 To preview your site with drafts, simply run **`jekyll serve`** or **`jekyll build`** with the **`--drafts`** switch. Each will be assigned the value modification time of the draft file for its date, and thus you will see currently edited drafts as the latest posts.
 
