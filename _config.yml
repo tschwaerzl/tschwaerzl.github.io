@@ -10,7 +10,7 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'https://schwaerzl.net'
-disqus: true
+disqus: false
 disqus_shortname: 'tschwaerzl'
 
 # Details for the RSS feed generator
