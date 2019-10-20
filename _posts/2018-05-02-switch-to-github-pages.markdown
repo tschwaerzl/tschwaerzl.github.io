@@ -2,6 +2,7 @@
 title:  "Time to switch to GitHub Pages!"
 date:   2018-05-02 15:01:00
 description: Now that they support HTTPS for custom domains, too
+archite: true
 ---
 
 I know, i know, you all got super excited about the new _GitHub Pages_ feature they [announced yesterday][gh-blog], didn't you!? What new feature you're asking? 
