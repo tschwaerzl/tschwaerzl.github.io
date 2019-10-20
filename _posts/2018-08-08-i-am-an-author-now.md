@@ -2,6 +2,7 @@
 title:  "I am an author now!"
 date:   2018-08-08 08:49:00
 description: I published my first article about Kubernetes in a tech magazine
+archive: true
 ---
 
 Big news! After some hard weeks and endless hours of writing, re-writing and re-re-writing my colleague Andreas and I finally finished our first article about Kubernetes called _"Einführung in Kubernetes"_ (engl. Introduction to Kubernetes). I am particularly proud that our article is the cover story of the new magazine.
