@@ -41,6 +41,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .icon-facebook-circled:before { content: '\e805'; }
 .icon-twitter-circled:before { content: '\e806'; }
 .icon-facebook-rect:before { content: '\e803'; }
+.icon-buymeacoffee:before { 
+	content: '';
+	background-image: 'https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/BMC-btn-logo.svg';
+	background-repeat: no-repeat;
+}
 
 /* Spacing */
 .post h1, h3, h4, h5, p, .post-body ul, #post-list li, pre {
@@ -614,7 +619,6 @@ h2.month {
 
 #sharing a.buymeacoffee {
   background: #FF813F;
-  height: 30px;
 }
 
 #sharing a {
