@@ -21,7 +21,7 @@ Connect with me:
 * [GitHub][github]
 * [Stackoverflow][stackoverflow]
 
-[github]: https://github.com
+[github]: https://github.com/tschwaerzl
 [twitter-ts]: https://twitter.com/tschwaerzl
 [stackoverflow]: https://stackoverflow.com/users/1073606/
 [linkedin]: https://linkedin.com/tschwaerzl
